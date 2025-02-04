@@ -275,7 +275,7 @@ button {
 
 .hero{
     height: 50vh;
-    background-image: url(images/demo.jpg);
+    background-image: url(demo.jpg);
     background-size: cover;
     background-position: center;
     background-color: rgba(0, 0, 0, .55);
@@ -331,7 +331,7 @@ button {
 
 
 .video_container{
-  background-image: url(images/demo.jpg);
+  background-image: url(demo.jpg);
   object-fit: cover;
   background-position: center;
   background-blend-mode: overlay;
